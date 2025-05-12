@@ -90,4 +90,4 @@
 - [ ] Create a task offloader with Web Workers  
 - [ ] Build infinite scroll with real-time progress tracking
 
----
+--- Check out for more
